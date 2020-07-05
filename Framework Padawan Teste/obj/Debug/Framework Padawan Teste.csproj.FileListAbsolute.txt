@@ -1,0 +1,18 @@
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.csprojAssemblyReference.cache
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.exe.config
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework_Padawan_Teste.Form1.resources
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework_Padawan_Teste.Form2.resources
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework_Padawan_Teste.Properties.Resources.resources
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.csproj.GenerateResource.cache
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.csproj.CoreCompileInputs.cache
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\Framework Padawan Teste.exe.config
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\Framework Padawan Teste.exe
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\Framework Padawan Teste.pdb
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\ZendeskApi_v2.dll
+C:\Users\Liliane\source\repos\Framework Padawan Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework_Padawan_Teste.Form3.resources
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework_Padawan_Teste.Form4.resources
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.csproj.CopyComplete
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.exe
+C:\Users\Liliane\source\repos\Framework Padawan Teste\obj\Debug\Framework Padawan Teste.pdb
